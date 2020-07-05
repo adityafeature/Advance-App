@@ -21,6 +21,16 @@ list-style-type: none;
     
  .foo1 {
      list-style: none;
-     float:right;
-     padding: 10px;;
- }
+     float:right;  
+   }
+
+/* .foo1 {
+  list-style: none;
+  float:right;
+   padding: 1px 1px 1px 1px;
+ }*/
+ 
+ .foo2 {
+  list-style: none;
+  float:left; 
+}
